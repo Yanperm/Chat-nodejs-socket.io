@@ -2,5 +2,5 @@
 (Back-End) NodeJS Chat Socket.io
 Run Server
 ```
-npm start //start port 3000
+$npm start //start port 3000
 ```
